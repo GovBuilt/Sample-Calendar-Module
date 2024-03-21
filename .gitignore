@@ -1,0 +1,7 @@
+.vs/
+cms.app/bin/
+cms.app/Localization/
+cms.app/obj/
+cms.app/wwwroot/Default/
+Sample.Calendar/obj/
+Sample.Calendar/bin/
